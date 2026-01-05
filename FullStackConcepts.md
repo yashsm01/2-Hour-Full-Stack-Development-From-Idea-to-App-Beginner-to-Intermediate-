@@ -463,6 +463,21 @@
 
 > 💡 **Workshop Achievement:** Built a complete Todo app demonstrating all concepts!
 
+---
+
+## 📫 Connect with the Trainer
+
+<div align="center">
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://www.linkedin.com/in/yash-modi-748817190/" alt="LinkedIn QR" width="180" style="max-width:100%;height:auto;border-radius:6px;" />
+
+
+**Scan to connect on [LinkedIn](https://www.linkedin.com/in/yash-modi-748817190/)**
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Coding" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
