@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Full Stack Diagram](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Full Stack Diagram" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 ### *Complete Guide for Modern Web Development*
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![Workshop Stack](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Workshop Stack" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![Frontend Code](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Frontend Code" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![Frameworks Collage](https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Frameworks Collage" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-![Angular Logo](https://angular.io/assets/images/logos/angular/angular.png)
+<img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo" width="140" style="max-width:100%;height:auto;" />
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-![Server Code](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Server Code" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -139,7 +139,7 @@
 
 <div align="center">
 
-![Backend Tools](https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Backend Tools" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -162,7 +162,7 @@
 
 <div align="center">
 
-![Node.js Logo](https://nodejs.org/static/images/logo.svg)
+<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="140" style="max-width:100%;height:auto;" />
 
 </div>
 
@@ -181,7 +181,7 @@
 
 <div align="center">
 
-![Database Servers](https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Database Servers" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -212,7 +212,7 @@
 
 <div align="center">
 
-![SQL Diagram](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="SQL Diagram" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -243,7 +243,7 @@
 
 <div align="center">
 
-![NoSQL Icons](https://images.unsplash.com/photo-1633419461186-7d40a38105ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1633419461186-7d40a38105ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="NoSQL Icons" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -266,7 +266,7 @@
 
 <div align="center">
 
-![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg)
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB Logo" width="160" style="max-width:100%;height:auto;" />
 
 </div>
 
@@ -287,7 +287,7 @@
 
 <div align="center">
 
-![Architecture Diagram](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Architecture Diagram" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -321,7 +321,7 @@
 
 <div align="center">
 
-![Monolith Building](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Monolith Building" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -356,7 +356,7 @@
 
 <div align="center">
 
-![Microservices Network](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Microservices Network" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -377,7 +377,7 @@
 
 <div align="center">
 
-![Cloud Architecture](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Cloud Architecture" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -427,7 +427,7 @@
 
 <div align="center">
 
-![Dev Tools](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Dev Tools" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 </div>
 
@@ -465,7 +465,7 @@
 
 <div align="center">
 
-![Coding](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Coding" width="480" style="max-width:100%;height:auto;border-radius:6px;" />
 
 ### *Happy Coding! 🚀*
 
