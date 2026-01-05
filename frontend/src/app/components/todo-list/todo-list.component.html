@@ -1,0 +1,46 @@
+<div class="card shadow-sm">
+  <div class="card-header d-flex justify-content-between align-items-center">
+    <div>
+      <h5 class="mb-0">My Todos</h5>
+      <small class="text-muted">Track tasks, mark progress, keep focus.</small>
+    </div>
+    <button class="btn btn-primary" (click)="startCreate()">Add Todo</button>
+  </div>
+
+  <div class="card-body" *ngIf="isLoading">
+    <div class="text-center text-muted">Loading todos...</div>
+  </div>
+
+  <div class="card-body" *ngIf="!isLoading && errorMessage">
+    <div class="alert alert-danger" role="alert">{{ errorMessage }}</div>
+  </div>
+
+  <ul class="list-group list-group-flush" *ngIf="!isLoading && !errorMessage">
+    <li
+      class="list-group-item d-flex align-items-start justify-content-between"
+      *ngFor="let todo of todos"
+    >
+      <div>
+        <h6 [class.completed]="todo.completed">{{ todo.title }}</h6>
+        <p class="mb-1 text-muted">{{ todo.description || 'No description provided.' }}</p>
+        <small class="text-secondary">Last updated: {{ todo.updatedAt | date:'short' }}</small>
+      </div>
+      <div class="btn-group btn-group-sm">
+        <button class="btn btn-outline-success" (click)="toggleComplete(todo)">
+          {{ todo.completed ? 'Mark Incomplete' : 'Mark Complete' }}
+        </button>
+        <button class="btn btn-outline-secondary" (click)="startEdit(todo)">Edit</button>
+        <button class="btn btn-outline-danger" (click)="remove(todo)">Delete</button>
+      </div>
+    </li>
+    <li class="list-group-item" *ngIf="todos.length === 0">
+      <div class="text-center text-muted">No todos yet. Add your first task!</div>
+    </li>
+  </ul>
+</div>
+
+<app-todo-form
+  [activeTodo]="selectedTodo"
+  (save)="handleSave($event)"
+  (cancel)="cancelEdit()"
+></app-todo-form>

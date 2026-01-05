@@ -1,0 +1,47 @@
+<div class="card mt-4" *ngIf="activeTodo">
+  <div class="card-body">
+    <h5 class="card-title mb-3">
+      {{ activeTodo?._id ? 'Edit Todo' : 'Add Todo' }}
+    </h5>
+    <form (ngSubmit)="onSubmit()">
+      <div class="mb-3">
+        <label class="form-label" for="todoTitle">Title</label>
+        <input
+          id="todoTitle"
+          name="title"
+          class="form-control"
+          [(ngModel)]="draft.title"
+          required
+          placeholder="Enter task title"
+        />
+      </div>
+      <div class="mb-3">
+        <label class="form-label" for="todoDescription">Description</label>
+        <textarea
+          id="todoDescription"
+          name="description"
+          class="form-control"
+          rows="3"
+          [(ngModel)]="draft.description"
+          placeholder="Add useful details"
+        ></textarea>
+      </div>
+      <div class="form-check form-switch mb-3">
+        <input
+          class="form-check-input"
+          type="checkbox"
+          id="todoCompleted"
+          name="completed"
+          [(ngModel)]="draft.completed"
+        />
+        <label class="form-check-label" for="todoCompleted">Completed</label>
+      </div>
+      <div>
+        <button type="submit" class="btn btn-primary me-2">Save</button>
+        <button type="button" class="btn btn-secondary" (click)="onCancel()">
+          Cancel
+        </button>
+      </div>
+    </form>
+  </div>
+</div>

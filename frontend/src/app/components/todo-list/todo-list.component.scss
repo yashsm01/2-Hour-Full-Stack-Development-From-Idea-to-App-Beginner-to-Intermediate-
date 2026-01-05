@@ -1,0 +1,12 @@
+.card {
+  border: none;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #198754;
+}
+
+.btn-group button + button {
+  margin-left: 0.5rem;
+}
